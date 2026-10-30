@@ -4,6 +4,16 @@
     "type": "git",
     "url": "https://github.com/coderoad/fcc-learn-npm"
   },
+  "author": "Usamah Abdillah Hanif",
+  "description": "Ini adalah proyek latihan untuk mempelajari dasar package.json",
+  "keywords": [
+    "freecodecamp",
+    "latihan",
+    "nodejs",
+    "npm"
+  ],
+  "license": "MIT",
+  "version": "1.2.0",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
